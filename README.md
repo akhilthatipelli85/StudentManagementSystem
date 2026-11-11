@@ -1,2 +1,2 @@
 Student Management System
-this project manages student deatils
+this project manages student registrations
